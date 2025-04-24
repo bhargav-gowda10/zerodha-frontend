@@ -9,37 +9,22 @@ function Team() {
 
             <div className='row p-3 text-muted' style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
                 <div className='col-6 p-5 text-center'>
-                    <img src='Media/Images/MySelfe.jpeg' style={{ borderRadius: "100%", width: "75%" }} />
-                    <h4 className='mt-5'>Utkarsh Raj</h4>
-                    <h6>B. Tech CSE Student</h6>
+                    <img src='Media/Images/bmn.jpg' style={{ borderRadius: "100%", width: "75%" }} />
+                    <h4 className='mt-5'>Bhargava m n and Adarsh s</h4>
+                    <h6>pursuing mca in dayananda sagar</h6>
                 </div>
                 <div className='col-6 p-3'>
-                    <p>This is Utkarsh Raj, B. Tech final year student.</p>
+                    <p>.</p>
                     <p>This project is based on the case study done on various other trading platforms.It is just for educational purpose.</p>
                     <p>It's main focus on Managing and displaying real-time stock data efficiently.
                         Providing secure user authentication and data storage.
                         Ensuring scalability during high user traffic.
                         Creating an interactive and responsive UI/UX.</p>
-                    <p>This project successfully implements a scalable trading website, inspired by platforms like Zerodha and Groww. Using ReactJS, MongoDB Atlas, and AWS, it delivers an efficient, secure, and user-friendly platform for retail traders.</p>
+                    <p>This project successfully implements a scalable trading website, inspired by platforms like Zerodha and Groww. Using ReactJS, MongoDB Atlas, and zender, it delivers an efficient, secure, and user-friendly platform for retail traders.</p>
                 </div>
             </div>
             <div className='row text-center'>
-                <h1 className='text-center mb-5'>Team</h1>
-                <div className='col'>
-                    <img src='Media/Images/suman.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                    <h4 className='mt-5'>Suryakant Suman</h4>
-                    <h6>B. Tech CSE Student</h6>
-                </div>
-                <div className='col'>
-                <img src='Media/Images/Dhrendra.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                <h4 className='mt-5'>Dheerendra Pratap Singh Tomar</h4>
-                <h6>B. Tech CSE Student</h6>
-                </div>
-                <div className='col'>
-                <img src='Media/Images/sambhav.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                <h4 className='mt-5'>Sambhav Karn</h4>
-                <h6>B. Tech CSE Student</h6>
-                </div>
+              
             </div>
         </div>
     );
